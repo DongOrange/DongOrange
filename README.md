@@ -21,3 +21,4 @@ Hi, I’m Og 🍊
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
+![LeetCode](https://leetcard.jacoblin.cool/breezenest)
